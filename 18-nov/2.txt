@@ -1,0 +1,4 @@
+#hiii this is a new file created by using file handling by using 
+         File.open("2.txt","w") do |file|
+             file.write("codebetter,bestpeers)
+         end

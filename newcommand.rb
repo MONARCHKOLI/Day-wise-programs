@@ -1,0 +1,5 @@
+puts "heelo friends"
+print "chai piloooo"
+puts "the statement in next line due to puts command"
+print "today is thursday"   
+puts ""
