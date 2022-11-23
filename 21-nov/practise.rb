@@ -45,7 +45,7 @@ status = false
 #     puts "You entered the number wrongly"
 # end
 
-if ()
+if (marklist.grep(1..33).empty? == false)
     status = false
 else
     status = true
